@@ -7,6 +7,7 @@ node_modules/
 firebase-debug.log
 .firebaserc
 firebase.json
+server/serviceAccountKey.json
 
 # Build files
 build/
