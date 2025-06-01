@@ -1,0 +1,18 @@
+# Node.js
+node_modules/
+.env
+*.log
+
+# Firebase
+firebase-debug.log
+.firebaserc
+firebase.json
+
+# Build files
+build/
+dist/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
